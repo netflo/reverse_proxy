@@ -1,0 +1,5 @@
+deployment via docker
+
+sudo docker pull httpd
+sudo docker run httpd:latest
+
